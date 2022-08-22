@@ -91,6 +91,10 @@ Install version 365 with the script
 
 Then convert into Mondo with Active AIO, and activate it
 
+## Godmode
+
+This folder can access all windows features
+
 ---
 ---
 
