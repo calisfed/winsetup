@@ -120,7 +120,8 @@ Arial Unicode Font
 Set it as background.
 >*The formula is the sound intensity*
 
-![Sound intensity](/winsetup/background.jpg)
+[Sound intensity](/winsetup/background.jpg)
+@import "winsetup/background.jpg"
 
 ### Scrip for Office + Active AIO 3.1.3
 
