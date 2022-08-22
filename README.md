@@ -95,6 +95,9 @@ Then convert into Mondo with Active AIO, and activate it
 
 This folder can access all windows features
 
+## Linux and Ubuntu commands cheatsheets
+The name show it all
+
 ---
 ---
 
