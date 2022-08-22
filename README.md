@@ -65,13 +65,10 @@ Download [Brave](https://brave.com/)
 
 In order to use Brave rewards, use [Tunnel Bear](https://www.tunnelbear.com/) and change to [supported regions](https://brave.com/transparency/). One way to have data is to share about Tunnel Bear on Twitter for 1Gb each. An other way is to ask [Giang Trung](https://www.facebook.com/giangnguyen.thanhtrung) for Tunnel Bear account.
 
-<hid><show>Sync code</show>
-
 ```md
 devote census web plate view picnic apple ill please ill local episode mammal grow pride random clown ski gather chef leave chaos color marriage artist
 ```
 
-</hid>
 ## 7zip
 
 Download and install [7zip](https://www.7-zip.org/)
@@ -120,7 +117,7 @@ Arial Unicode Font
 Set it as background.
 >*The formula is the sound intensity*
 
-![Sound intensity](/winsetup/background.jpg?0.4224483820431477)
+![Sound intensity](https://github.com/calisfed/winsetup/blob/master/background.jpg)
 
 ### Scrip for Office + Active AIO 3.1.3
 
