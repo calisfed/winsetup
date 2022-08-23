@@ -11,14 +11,12 @@ Please following the order
 - [Explorer Patcher](#explorer-patcher)
 - [Unikey](#unikey)
 - [Vsial Studio Code](#vsial-studio-code)
-- [Others](#others)
-  - [Regkeys](#regkeys)
-  - [Fonts](#fonts)
-  - [Background](#background)
-  - [Scrip for Office + Active AIO 3.1.3](#scrip-for-office--active-aio-313)
-  - [Godmode](#godmode)
-  - [Linux and Ubuntu commands cheatsheets](#linux-and-ubuntu-commands-cheatsheets)
-  - [WSL VSCode shortcut](#wsl-vscode-shortcut)
+- [Included Folders](#included-folders)
+  - [Background_Images folder](#background_images-folder)
+  - [Cheatsheets folder](#cheatsheets-folder)
+  - [Scrips folder](#scrips-folder)
+  - [Regfiles folder](#regfiles-folder)
+  - [Others folder](#others-folder)
 - [Optional](#optional)
   - [Clink](#clink)
   - [Equalizer APO and HeSuVi](#equalizer-apo-and-hesuvi)
@@ -37,7 +35,7 @@ Please following the order
 
 ## Windows Debloater
 
-1. Get this from this repo [Window Debloater](https://github.com/Sycnex/Windows10Debloater)
+1. Get this from this repo [Window Debloater](https://github.com/Sycnex/Windows10Debloater) or use the version in the [Script Folder](https://github.com/calisfed/winsetup/blob/master/Scipts/)
 
 2. Run the **GUI** powershell file
 
@@ -88,9 +86,38 @@ Download and install [Visual Studio Code](https://code.visualstudio.com/download
 ---
 ---
 
-## Others
+## Included Folders
 
-### Regkeys
+### Background_Images folder
+
+Set them as background.
+>*The formula is the sound intensity*
+
+![Sound intensity](https://github.com/calisfed/winsetup/blob/master/Background_Images/bg1.jpg)
+
+>*Peaceful Staircase in the wood*
+
+![Peaceful Staircase in the wood](https://github.com/calisfed/winsetup/blob/master/Background_Images/bg2.jpg)
+
+### Cheatsheets folder
+
+The name says it all
+Included
+
+```md
+Git 
+Rust
+Linux
+Ubuntu
+```
+
+### Scrips folder
+
+Install version 365 with the script
+
+Then convert into Mondo with Active AIO, and activate it
+
+### Regfiles folder
 
 1. Intelppm: Change Start to one of these values
 
@@ -99,7 +126,27 @@ Download and install [Visual Studio Code](https://code.visualstudio.com/download
 
 2. Windef: Turn off Windows Defender, should turn off on **Start up** in **Task Manager** too
 
-### Fonts
+3. Others does what its name said
+
+### Others folder
+
+#### Draw <!-- omit in toc -->
+
+This zip file contains manythings, i.e. drivers for tablet, some basic tutorials
+
+#### numix_cursor <!-- omit in toc -->
+
+This cursor style is nice, remember to set size to **2** and scroll **6** lines a time
+
+##### Godmode <!-- omit in toc -->
+
+This folder can access all windows features
+
+#### WSL VSCode shortcut <!-- omit in toc -->
+
+A Windows shortcut to start VSCode in $HOME
+
+#### Fonts <!-- omit in toc -->
 
 Install for All users
 >*These fonts used for coding and Dota2*
@@ -110,32 +157,8 @@ Included:
 Fira Nerd Fonts
 Fira Mono Nerd Fonts
 Arial Unicode Font
+Handwritten
 ```
-
-### Background
-
-Set it as background.
->*The formula is the sound intensity*
-
-![Sound intensity](https://github.com/calisfed/winsetup/blob/master/background.jpg)
-
-### Scrip for Office + Active AIO 3.1.3
-
-Install version 365 with the script
-
-Then convert into Mondo with Active AIO, and activate it
-
-### Godmode
-
-This folder can access all windows features
-
-### Linux and Ubuntu commands cheatsheets
-
-The name show it all
-
-### WSL VSCode shortcut
-
-A Windows shortcut to start VSCode in $HOME
 
 ---
 ---
