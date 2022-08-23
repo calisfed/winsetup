@@ -28,7 +28,7 @@ Please following the order
 1. Go to
 [Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10ISO)
 
-2. Then press **F12**, change device to a mobile device.
+2. Then press `F12`, change device to a mobile device.
 
 3. Then download clean, fresh ISO file.
 
@@ -38,7 +38,7 @@ Please following the order
 
 1. Get this from this repo [Window Debloater](https://github.com/Sycnex/Windows10Debloater) or use the version in the [Script Folder](https://github.com/calisfed/winsetup/blob/master/Scipts/)
 
-2. Run the **GUI** powershell file
+2. Run the `GUI` powershell file
 
 3. White list these
 
@@ -48,15 +48,15 @@ Paint
 Notepad
 ```
 
-After debloated, update Microsoft Store
+After debloated, update `Microsoft Store`
 
 ## Windows Terminal
 
-Install from Microsoft Store
+Install from `Microsoft Store`
 
 ## TranslucentTB
 
-Download from Microsoft Store
+Download from `Microsoft Store`
 
 ## Brave [Browser]
 
@@ -154,7 +154,7 @@ Then convert into Mondo with Active AIO, and activate it
     - `3` for **variable** max cpu speed
     - `4` for **constant** max cpu speed
 
-2. Windef: Turn off Windows Defender, should turn off on `**Start up**` in `**Task Manager**` too
+2. Windef: Turn off Windows Defender, should turn off on `Start up` in `Task Manager` too
 
 3. Others does what its name said
 
@@ -166,7 +166,7 @@ This zip file contains manythings, i.e. drivers for tablet, some basic tutorials
 
 #### numix_cursor <!-- omit in toc -->
 
-This cursor style is nice, remember to set size to `**2**` and scroll `**6**` lines a time
+This cursor style is nice, remember to set size to `2` and scroll `6` lines a time
 
 ##### Godmode <!-- omit in toc -->
 
@@ -179,7 +179,7 @@ A Windows shortcut to start VSCode in $HOME
 #### Fonts <!-- omit in toc -->
 
 Install for All users
->_These fonts used for coding and Dota2_
+>**Note**: These fonts used for coding and Dota2
 
 Included:
 
