@@ -97,11 +97,17 @@ ssh-add ~/.ssh/id_ed25519
 cat ~/.ssh/id_ed25519.pub
 ```
 
+In Windows you need to update the `WSLENV` environment variable to include the value `GIT_EXEC_PATH/wp`. From an Administrator Command Prompt run the following:
+
 ```cmd
 SETX WSLENV %WSLENV%:GIT_EXEC_PATH/wp
 ```
 
-Change remote url
+After updating the `WSLENV` environment variable, restart your WSL installation.
+
+>**Note**: ssh link look like this git@github.com:USERNAME/REPOSITORY.git
+
+Change remote url if needed
 
 ```sh
 git remote set-url origin git@github.com:USERNAME/REPOSITORY.git
@@ -145,10 +151,10 @@ Then convert into Mondo with Active AIO, and activate it
 
 1. Intelppm: Change Start to one of these values
 
-    - 3 for **variable** max cpu speed
-    - 4 for **constant** max cpu speed
+    - `3` for **variable** max cpu speed
+    - `4` for **constant** max cpu speed
 
-2. Windef: Turn off Windows Defender, should turn off on **Start up** in **Task Manager** too
+2. Windef: Turn off Windows Defender, should turn off on `**Start up**` in `**Task Manager**` too
 
 3. Others does what its name said
 
@@ -160,7 +166,7 @@ This zip file contains manythings, i.e. drivers for tablet, some basic tutorials
 
 #### numix_cursor <!-- omit in toc -->
 
-This cursor style is nice, remember to set size to **2** and scroll **6** lines a time
+This cursor style is nice, remember to set size to `**2**` and scroll `**6**` lines a time
 
 ##### Godmode <!-- omit in toc -->
 
