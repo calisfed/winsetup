@@ -11,7 +11,7 @@ Please following the order
 - [Explorer Patcher](#explorer-patcher)
 - [Unikey](#unikey)
 - [Vsial Studio Code](#vsial-studio-code)
-- [Ubuntu/Debian distributions](#ubuntudebian-distributions)
+- [Generate SSH key](#generate-ssh-key)
 - [Included Folders](#included-folders)
   - [Background_Images folder](#background_images-folder)
   - [Cheatsheets folder](#cheatsheets-folder)
@@ -84,25 +84,22 @@ Download and run [Unikey](https://www.unikey.org/)
 
 Download and install [Visual Studio Code](https://code.visualstudio.com/download)
 
-## Ubuntu/Debian distributions
+## Generate SSH key
 
-Download the latest [.deb package](https://github.com/GitCredentialManager/git-credential-manager/releases/latest), and run the following:
+```sh
+ssh-keygen -t ed25519 -C "79589892+calisfed@users.noreply.github.com"
 
-```shell
-sudo dpkg -i <path-to-package>
-git-credential-manager-core configure
+eval "$(ssh-agent -s)"
+
+ssh-add ~/.ssh/id_ed25519
+
+cat ~/.ssh/id_ed25519.pub
 ```
 
-**Note:** Although packages were previously offered on certain
-[Microsoft Ubuntu package feeds](https://packages.microsoft.com/repos/),
-GCM no longer publishes to these repositories. Please install the
-Debian package using the above instructions instead.
+Change remote url
 
-To uninstall:
-
-```shell
-git-credential-manager-core unconfigure
-sudo dpkg -r gcmcore
+```sh
+git remote set-url origin git@github.com:USERNAME/REPOSITORY.git
 ```
 
 ---
