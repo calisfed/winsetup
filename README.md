@@ -11,6 +11,7 @@ Please following the order
 - [Explorer Patcher](#explorer-patcher)
 - [Unikey](#unikey)
 - [Vsial Studio Code](#vsial-studio-code)
+- [Ubuntu/Debian distributions](#ubuntudebian-distributions)
 - [Included Folders](#included-folders)
   - [Background_Images folder](#background_images-folder)
   - [Cheatsheets folder](#cheatsheets-folder)
@@ -83,6 +84,27 @@ Download and run [Unikey](https://www.unikey.org/)
 
 Download and install [Visual Studio Code](https://code.visualstudio.com/download)
 
+## Ubuntu/Debian distributions
+
+Download the latest [.deb package](https://github.com/GitCredentialManager/git-credential-manager/releases/latest), and run the following:
+
+```shell
+sudo dpkg -i <path-to-package>
+git-credential-manager-core configure
+```
+
+**Note:** Although packages were previously offered on certain
+[Microsoft Ubuntu package feeds](https://packages.microsoft.com/repos/),
+GCM no longer publishes to these repositories. Please install the
+Debian package using the above instructions instead.
+
+To uninstall:
+
+```shell
+git-credential-manager-core unconfigure
+sudo dpkg -r gcmcore
+```
+
 ---
 ---
 
@@ -91,11 +113,11 @@ Download and install [Visual Studio Code](https://code.visualstudio.com/download
 ### Background_Images folder
 
 Set them as background.
->*The formula is the sound intensity*
+>_The formula is the sound intensity_
 
 ![Sound intensity](https://github.com/calisfed/winsetup/blob/master/Background_Images/bg1.jpg)
 
->*Peaceful Staircase in the wood*
+>_Peaceful Staircase in the wood_
 
 ![Peaceful Staircase in the wood](https://github.com/calisfed/winsetup/blob/master/Background_Images/bg2.jpg)
 
@@ -149,7 +171,7 @@ A Windows shortcut to start VSCode in $HOME
 #### Fonts <!-- omit in toc -->
 
 Install for All users
->*These fonts used for coding and Dota2*
+>_These fonts used for coding and Dota2_
 
 Included:
 
