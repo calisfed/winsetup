@@ -87,13 +87,18 @@ Download and install [Visual Studio Code](https://code.visualstudio.com/download
 ## Generate SSH key
 
 ```sh
+# Generate ssh key with my email
 ssh-keygen -t ed25519 -C "79589892+calisfed@users.noreply.github.com"
-
+# Connect to aythen agent
 eval "$(ssh-agent -s)"
-
+# Add ssh key to agent
 ssh-add ~/.ssh/id_ed25519
-
+# Copy ssh key to add in Github
 cat ~/.ssh/id_ed25519.pub
+```
+
+```cmd
+SETX WSLENV %WSLENV%:GIT_EXEC_PATH/wp
 ```
 
 Change remote url
