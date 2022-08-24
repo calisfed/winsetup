@@ -123,11 +123,11 @@ git remote set-url origin git@github.com:USERNAME/REPOSITORY.git
 Set them as background.
 >_The formula is the sound intensity_
 
-![Sound intensity](https://github.com/calisfed/winsetup/tree/main/Background_Images/bg1.jpg)
+![Sound intensity](https://github.com/calisfed/winsetup/blob/main/Background_Images/bg1.jpg)
 
 >_Peaceful Staircase in the wood_
 
-![Peaceful Staircase in the wood](https://github.com/calisfed/winsetup/tree/main/Background_Images/bg2.jpg)
+![Peaceful Staircase in the wood](https://github.com/calisfed/winsetup/blob/main/Background_Images/bg2.jpg)
 
 ### Cheatsheets folder
 
