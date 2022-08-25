@@ -197,7 +197,26 @@ Handwritten
 
 ### Clink
 
-[Clink](https://github.com/chrisant996/clink)
+Download [Clink](https://github.com/chrisant996/clink)
+
+Download [Clink complettion](https://github.com/vladimir-kotikov/clink-completions), extract to a folder, should put it inside clink folder C:\Program Files(x86)\clink
+
+Download [clink fzf](https://github.com/chrisant996/clink-fzf) and [fzf](https://github.com/junegunn/fzf)
+
+Download [Clink Flexprompt](https://github.com/chrisant996/clink-flex-prompt) and extract it in the Completion folder above
+
+
+
+Clink setting
+
+```sh
+clink set clink.logo none
+clink install scripts <put_dir_name_here>
+clink set fzf.exe_location <put_dir_name_here>
+clink set fzf.default_bindings true
+flexprompt configure
+```
+
 
 ### Equalizer APO and HeSuVi
 
