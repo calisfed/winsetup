@@ -65,7 +65,7 @@ Download [Brave](https://brave.com/)
 In order to use Brave rewards, use [Tunnel Bear](https://www.tunnelbear.com/) and change to [supported regions](https://brave.com/transparency/). One way to have data is to share about Tunnel Bear on Twitter for 1Gb each. An other way is to ask [Giang Trung](https://www.facebook.com/giangnguyen.thanhtrung) for Tunnel Bear account.
 
 ```md
-devote census web plate view picnic apple ill please ill local episode mammal grow pride random clown ski gather chef leave chaos color marriage artist
+scare polar frown clinic result govern grief same orange claw always hour deny labor issue wheat solve journey jazz security empty gain fiber denial bamboo
 ```
 
 ## 7zip
