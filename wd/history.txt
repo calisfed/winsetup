@@ -1,0 +1,59 @@
+git add .
+git commit -m "update"
+git push origin main
+code ~
+ls
+cd .dotfiles/
+git add .
+git commit -m "update"
+git push origin main
+xeyes
+xeyes
+git commit -m "update env.nu"
+git add .
+git commit -m "update env.nu"
+git push origin main
+wsl
+ga
+cd .dotfiles/
+gaa
+gc -m "update alias"
+gp
+cd .dotfiles/
+gaa
+gc -m "update alias"
+gp
+py
+python3
+pip
+py
+python3 -m pip
+gaa
+gc -m "update alias"
+gp
+..
+ls
+~
+wd
+ls
+wd
+$env.USER
+cd /c/u/v
+cd /c/Users/V/
+env
+wd
+cd /c/users/($env.USER)/
+cd '/c/users/($env.USER)/'
+cd $'/c/users/($env.USER)/'
+wd
+lx
+cd .dotfiles/
+gaa
+gc -m "update alias"
+gp
+wd
+gcl git@github.com:calisfed/win_setup
+gcl git@github.com:calisfed/winsetup
+cd winsetup/
+gaa
+cp ~/.dotfiles/.config/nushell/ wd
