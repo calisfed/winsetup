@@ -1,6 +1,6 @@
-# Setup new Sindows <!-- omit in toc -->
+# Setup new Windows <!-- omit in toc -->
 
-Please following the order
+Following the order
 
 - [Install clean Windows 10 ISO file](#install-clean-windows-10-iso-file)
 - [Windows Debloater](#windows-debloater)
@@ -10,8 +10,6 @@ Please following the order
 - [7zip](#7zip)
 - [Explorer Patcher](#explorer-patcher)
 - [Unikey](#unikey)
-- [Vsial Studio Code](#vsial-studio-code)
-- [Generate SSH key](#generate-ssh-key)
 - [Included Folders](#included-folders)
   - [Background_Images folder](#background_images-folder)
   - [Cheatsheets folder](#cheatsheets-folder)
