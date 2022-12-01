@@ -53,6 +53,14 @@ After debloated, update `Microsoft Store`
 ## Windows Terminal
 
 Install from `Microsoft Store`
+Some code to run 
+
+```md 
+# Update
+wsl --update
+# Set default version
+wsl --set-default-version 2
+```
 
 ## TranslucentTB
 
@@ -63,10 +71,6 @@ Download from `Microsoft Store`
 Download [Brave](https://brave.com/)
 
 In order to use Brave rewards, use [Tunnel Bear](https://www.tunnelbear.com/) and change to [supported regions](https://brave.com/transparency/). One way to have data is to share about Tunnel Bear on Twitter for 1Gb each. An other way is to ask [Giang Trung](https://www.facebook.com/giangnguyen.thanhtrung) for Tunnel Bear account.
-
-```md
-scare polar frown clinic result govern grief same orange claw always hour deny labor issue wheat solve journey jazz security empty gain fiber denial bamboo
-```
 
 ## 7zip
 
@@ -84,18 +88,7 @@ Download and run [Unikey](https://www.unikey.org/)
 
 Download and install [Visual Studio Code](https://code.visualstudio.com/download)
 
-## Generate SSH key
-
-```sh
-# Generate ssh key with my email
-ssh-keygen -t ed25519 -C "79589892+calisfed@users.noreply.github.com"
-# Connect to aythen agent
-eval "$(ssh-agent -s)"
-# Add ssh key to agent
-ssh-add ~/.ssh/id_ed25519
-# Copy ssh key to add in Github
-cat ~/.ssh/id_ed25519.pub
-```
+## WSL env variable
 
 In Windows you need to update the `WSLENV` environment variable to include the value `GIT_EXEC_PATH/wp`. From an Administrator Command Prompt run the following:
 
